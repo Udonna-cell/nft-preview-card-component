@@ -1,0 +1,24 @@
+extends ../layout.pug
+
+block header
+  header
+    section.card
+      figure 
+        // images here
+        img(src="./images/image-equilibrium.jpg" alt="poster")
+      article
+        h1 Equilibrium #3429
+        p Our Equilibrium collection promotes balance and calm.
+        aside
+          div.price
+            include ../../../dist/images/icon-ethereum.svg
+            h3 0.041 ETH
+          div.duration
+            include ../../../dist/images/icon-clock.svg
+            h3 3 days left
+        section.profile
+          div
+            img(src="./images/image-avatar.png" alt="profile")
+          h5 Creation of Jules Wyvern
+block footer
+  include ../components/footer.pug
