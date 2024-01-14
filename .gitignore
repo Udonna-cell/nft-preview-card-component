@@ -5,8 +5,8 @@ dist/index.html
 node_modules/
 package-lock.json
 # package.json
-package.jsonghh
-# README-template.md
+# package.jsonghh
+README-template.md
 # README.md
 # src
 style-guide.md
