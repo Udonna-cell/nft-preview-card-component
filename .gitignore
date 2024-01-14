@@ -1,5 +1,6 @@
-# design
-# dist
+design
+dist/css/
+dist/index.html
 # index.html
 node_modules/
 package-lock.json
@@ -8,4 +9,4 @@ package.jsonghh
 # README-template.md
 # README.md
 # src
-# style-guide.md
+style-guide.md
