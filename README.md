@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Udonna-cell/nft-preview-card-component](https://github.com/Udonna-cell/nft-preview-card-component)
+- Live Site URL: [https://card-preview-nft-componet.netlify.app](https://card-preview-nft-componet.netlify.app)
 
 ## My process
 
